@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "galicianDictionary": {
+            "command": "node",
+            "args": [
+                "path_to_your_project/dist/mcp-server.js"
+            ]
+        }
+    }
+}
